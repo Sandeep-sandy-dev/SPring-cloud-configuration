@@ -9,7 +9,7 @@ accounts:
   message: "Welcome to EazyBank accounts related QA APIs "
   contactDetails:
     name: "Sandy - Developer"
-    email: "sandy@eazybank.com"
+    email: "{cipher}5a00c7c6d5661adc341b681468e637403deb0296ed86a30e9fa22c154984ba3b20c1a24b22f1bf442789cecf5c38ad3f"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
