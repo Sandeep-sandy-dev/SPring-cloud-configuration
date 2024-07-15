@@ -6,7 +6,7 @@ spring:
 build:
   version: "3.0"
   
-accounts:
+loans:
   message: "Welcome to EazyBank cards related Prod APIs "
   contactDetails:
     name: "Sandy - Developer"
