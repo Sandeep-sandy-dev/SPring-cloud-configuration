@@ -18,14 +18,14 @@ spring:
     import: "optional:configserver:http://localhost:8071/"
   application:
     name: "loans"
-
-  config:
-    import:
-      - "application_qa.yml"
-      - "application_prod.yml"
   profiles:
     active:
       - "qa"
+config:
+    import:
+      - "application_qa.yml"
+      - "application_prod.yml"
+
 
 build:
   version: "1.0"
