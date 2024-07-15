@@ -25,7 +25,7 @@ spring:
 build:
   version: "1.0"
   
-accounts:
+loans:
   message: "Welcome to EazyBank loans related local APIs "
   contactDetails:
     name: "Sandy - Developer"
